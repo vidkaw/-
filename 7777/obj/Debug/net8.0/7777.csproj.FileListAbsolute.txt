@@ -1,0 +1,14 @@
+C:\c++\7777\bin\Debug\net8.0\7777.exe
+C:\c++\7777\bin\Debug\net8.0\7777.deps.json
+C:\c++\7777\bin\Debug\net8.0\7777.runtimeconfig.json
+C:\c++\7777\bin\Debug\net8.0\7777.dll
+C:\c++\7777\bin\Debug\net8.0\7777.pdb
+C:\c++\7777\obj\Debug\net8.0\7777.GeneratedMSBuildEditorConfig.editorconfig
+C:\c++\7777\obj\Debug\net8.0\7777.AssemblyInfoInputs.cache
+C:\c++\7777\obj\Debug\net8.0\7777.AssemblyInfo.cs
+C:\c++\7777\obj\Debug\net8.0\7777.csproj.CoreCompileInputs.cache
+C:\c++\7777\obj\Debug\net8.0\7777.dll
+C:\c++\7777\obj\Debug\net8.0\refint\7777.dll
+C:\c++\7777\obj\Debug\net8.0\7777.pdb
+C:\c++\7777\obj\Debug\net8.0\7777.genruntimeconfig.cache
+C:\c++\7777\obj\Debug\net8.0\ref\7777.dll
